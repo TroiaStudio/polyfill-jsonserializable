@@ -1,14 +1,13 @@
 {
-    "name": "troia-studio/polyfill-json-serializable",
+    "name": "troiastudio/polyfill-json-serializable",
     "type": "library",
-    "license": "MIT, BSD-3-Clause, GPL-2.0, GPL-3.0",
+    "license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
     "authors": [
         {
             "name": "Jan Galek",
             "email": "jan.galek@troia-studio.cz"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.0"
     },
